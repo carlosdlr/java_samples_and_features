@@ -1,7 +1,7 @@
 # Java samples and features
 
 
-This repo shows, java, spring boot, spring apps and java new features.
+This repo shows, java, spring boot, spring apps and java new features samples.
 
 
 Technologies used here
