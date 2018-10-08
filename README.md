@@ -6,7 +6,7 @@ This repo shows, java, spring boot, spring apps and java new features.
 
 Technologies used here
 
-[![N|Solid](https://maven.apache.org/images/maven-logo-black-on-white.png)]
+![N|Solid](https://maven.apache.org/images/maven-logo-black-on-white.png)
 
-[![N|Solid](https://spring.io/img/homepage/icon-spring-framework.svg)]
+![N|Solid](https://spring.io/img/homepage/icon-spring-framework.svg)
 
