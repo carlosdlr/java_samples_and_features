@@ -1,4 +1,4 @@
-package com.java8.sample.indexof.ocurrences;
+package com.java8.features.sample.indexof.ocurrences;
 
 import java.util.Arrays;
 import java.util.List;
@@ -6,6 +6,8 @@ import java.util.List;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
+
+import com.java8.features.sample.indexof.ocurrences.WordIndexer;
 
 public class WordIndexerTest {
 	

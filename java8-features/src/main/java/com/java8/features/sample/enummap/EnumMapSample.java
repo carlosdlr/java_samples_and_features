@@ -1,4 +1,4 @@
-package com.java8.sample.enummap;
+package com.java8.features.sample.enummap;
 
 import java.util.AbstractMap.SimpleEntry;
 import java.util.ArrayList;

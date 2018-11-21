@@ -1,4 +1,4 @@
-package com.java8.sample.enummap;
+package com.java8.features.sample.enummap;
 
 public enum DayOfWeek {
 	

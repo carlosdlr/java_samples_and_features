@@ -1,4 +1,4 @@
-package com.java8.sample.indexof.ocurrences;
+package com.java8.features.sample.indexof.ocurrences;
 
 import java.util.ArrayList;
 import java.util.List;
