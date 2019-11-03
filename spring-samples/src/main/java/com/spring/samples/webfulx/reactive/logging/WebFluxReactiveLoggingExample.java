@@ -1,4 +1,4 @@
-package com.spirng.samples.webfulx.reactive.logging;
+package com.spring.samples.webfulx.reactive.logging;
 
 import reactor.core.publisher.Flux;
 
